@@ -14,6 +14,7 @@ Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendati
 
 <div align="center">
 ●HunKang\
+ 
 Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
 hunkang10@ds.seoultech.ac.kr
 
