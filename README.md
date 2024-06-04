@@ -1,6 +1,6 @@
 # Reproducibility-Project
 <br>
-# Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation
+Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation
 
 <br>
 
@@ -13,8 +13,17 @@
 ## 팀원 구성
 
 <div align="center">
+●HunKang
+Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
+hunkang10@ds.seoultech.ac.kr
 
-| **강훈** | **탁승연** | **이창선** |
+●Syngyeon Tag
+Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
+sytak@ds.seoultech.ac.kr
+ 
+●Changsun Lee
+Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
+24510056@seoultech.ac.kr
 
 </div>
 
