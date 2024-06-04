@@ -13,15 +13,15 @@ Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendati
 ## 팀원 구성
 
 <div align="center">
-●HunKang
+●HunKang\
 Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
 hunkang10@ds.seoultech.ac.kr
 
-●Syngyeon Tag
+●Syngyeon Tag\
 Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
 sytak@ds.seoultech.ac.kr
  
-●Changsun Lee
+●Changsun Lee\
 Seoul National University of Science & Technology (SeoulTech) 232 Gongreungno
 24510056@seoultech.ac.kr
 
